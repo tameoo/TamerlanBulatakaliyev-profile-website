@@ -29,6 +29,6 @@ class TestMail extends Mailable
      */
     public function build()
     {
-        return $this->subject('lab8')->view('email.template');
+        return $this->subject('Email Sending Functionality')->view('email.template');
     }
 }

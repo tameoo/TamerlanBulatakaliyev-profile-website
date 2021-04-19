@@ -127,6 +127,11 @@
                 </div>
             </div>
         </div>
+        <ul class="locale" style="position: absolute;top: 20px;right: 50px; list-style-type: none; width: 100px; display: flex; justify-content: space-between ">
+            <li class="lang" ><a style="color:#fff; text-decoration:none;" href="en">EN</a></li>
+            <li class="lang" ><a style="color:#fff; text-decoration:none;" href="kz">KZ</a></li>
+            <li class="lang" ><a style="color:#fff; text-decoration:none;" href="ru">RU</a></li>
+        </ul>
     </section>
     <script src="{{ URL::asset('script.js') }}"></script>
 </body>

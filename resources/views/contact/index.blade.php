@@ -9,7 +9,7 @@
 <body>
 
 @foreach ($email as $emailDetail)
-    <ul style="display: flex; justify-content: space-between; list-style-type: none;    background-color: khaki;">
+    <ul style="display: flex; justify-content: space-between; list-style-type: none; background-color: khaki;">
        <li>
             {{ $emailDetail->id }}
        </li> 
