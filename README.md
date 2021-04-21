@@ -20,12 +20,11 @@ Contains file uploading.
 
 ## Email table from Database.
 
-| Users| 
-| id |
-| name |
-| surname |
-| email |
-| photo |
+- id 
+- name 
+- surname 
+- email 
+- photo 
 
 ## Screenshots of portfolio:
 
