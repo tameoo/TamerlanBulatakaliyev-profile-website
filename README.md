@@ -13,10 +13,10 @@ This is my personal portfolio website written in Laravel.
 
 ## Project requirements & some features:
 
-Supports 3 languages: RU, EN, KZ
-Has email sending functionality: /send
-Has connection with MySQL database
-Contains file uploading.
+- Supports 3 languages: RU, EN, KZ
+- Has email sending functionality: /send
+- Has connection with MySQL database
+- Contains file uploading.
 
 ## Email table from Database.
 
