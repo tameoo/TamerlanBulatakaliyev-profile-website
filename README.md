@@ -2,6 +2,14 @@
 
 This is my personal portfolio website written in Laravel. 
 
+## Email table from Database.
+
+- id 
+- name 
+- surname 
+- email 
+- photo 
+
 ## Pages & Routes:
 
 -   / Main page
@@ -17,14 +25,6 @@ This is my personal portfolio website written in Laravel.
 - Has email sending functionality: /send
 - Has connection with MySQL database
 - Contains file uploading.
-
-## Email table from Database.
-
-- id 
-- name 
-- surname 
-- email 
-- photo 
 
 ## Screenshots of portfolio:
 
